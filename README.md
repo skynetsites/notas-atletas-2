@@ -1,7 +1,7 @@
-# Projeto de certificação 2 - Pontuação dos Atletas
+# Projeto de certificação 2 – Dados dos atletas
 
 ## Descrição
-Este projeto faz parte do teste do curso **Jornada DEVStar CE do SENAI/SC - Trilha 1: Lógica de Programação** da Fase 8. Projetos avançados > 45. Projetos de certificação > Projeto de certificação 2 - Pontuação dos atletas.
+Este projeto faz parte do teste do curso **Jornada DEVStar CE do SENAI/SC - Trilha 1: Lógica de Programação** da Fase 8. Projetos avançados > 45. Projetos de certificação > Projeto de certificação 2 – Dados dos atletas.
 
 É uma aplicação para competições de ginástica artística, onde é possível cadastrar atletas, registrar notas de cinco jurados, calcular a **média válida** (desconsiderando a maior e menor nota) e visualizar os resultados em tabela e gráfico junto com o calculo do **IMC**.
 
@@ -24,7 +24,7 @@ Este projeto faz parte do teste do curso **Jornada DEVStar CE do SENAI/SC - Tril
 
 ## Como executar (Versão 1.0.1)
 
-Esta é a versão **1.0.1** do projeto **Notas Atletas**, contendo a nova versão do site.
+Esta é a versão **1.0.1** do projeto **certificação**, contendo a nova versão do site.
 
 ### 1. Clonando diretamente esta versão
 Para baixar, use:
@@ -78,4 +78,4 @@ A versão 1.0.1 também está disponível online em:
 💼 **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/skynetsites/)
 
 ## Créditos
-Desenvolvido como entrega do Projeto de certificação 1 - Pontuação dos atletas do curso **Jornada DEVStar CE do SENAI/SC**
+Desenvolvido como entrega do Projeto de certificação 2 – Dados dos atletas do curso **Jornada DEVStar CE do SENAI/SC**
