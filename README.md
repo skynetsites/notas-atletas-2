@@ -61,7 +61,7 @@ A versão 1.0.1 também está disponível online em:
 
 
 ### 4. Outras versões disponíveis
-- **main** → versão principal do projeto:  
+- **1.0.0** → versão principal do projeto:  
   [https://skynetsites.github.io/notas-atletas/](https://skynetsites.github.io/notas-atletas/)
 
 - **1.0.1** → esta versão atual (de atualização e melhorias)
