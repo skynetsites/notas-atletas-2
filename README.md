@@ -7,7 +7,7 @@ Este projeto faz parte do teste do curso **Jornada DEVStar CE do SENAI/SC - Tril
 
 ## Funcionalidades implementadas
 - Cálculo da **média válida** e do **IMC** automaticamente.
-- **Tabela de atletas** exibindo notas e média.
+- **Tabela de atletas** exibindo, idade, peso, altura, notas e média.
 - **Gráfico de médias** usando Chart.js.
 - **Atletas padrão** já carregados ao iniciar.
 - **Adicionar novos atletas** com notas.
@@ -24,21 +24,15 @@ Este projeto faz parte do teste do curso **Jornada DEVStar CE do SENAI/SC - Tril
 
 ## Como executar (Versão 1.0.1)
 
-Esta é a **branch 1.0.1** do projeto **Notas Atletas**, contendo a nova versão do site.
+Esta é a versão **1.0.1** do projeto **Notas Atletas**, contendo a nova versão do site.
 
 ### 1. Clonando diretamente esta versão
-Para baixar **somente esta branch**, use:
+Para baixar, use:
 
 ```bash
-git clone --branch 1.0.1 https://github.com/skynetsites/notas-atletas.git
-cd notas-atletas
+git clone --branch 1.0.1 https://github.com/skynetsites/notas-atletas-2.git
+cd notas-atletas-2
 ```
-
-> 💡 Se você já tiver o repositório clonado, basta trocar de branch:
-> ```bash
-> git fetch
-> git checkout 1.0.1
-> ```
 
 ### 2. Executando o projeto localmente
 Como este site é estático (HTML, CSS, JS), não requer compilação.
@@ -63,25 +57,25 @@ http://localhost:3000
 ### 3. Versão publicada
 A versão 1.0.1 também está disponível online em:
 
-👉 [https://skynetsites.github.io/notas-atletas/1.0.1/](https://skynetsites.github.io/notas-atletas/1.0.1/)
+👉 [https://skynetsites.github.io/notas-atletas-2/](https://skynetsites.github.io/notas-atletas-2/)
 
 
 ### 4. Outras versões disponíveis
 - **main** → versão principal do projeto:  
   [https://skynetsites.github.io/notas-atletas/](https://skynetsites.github.io/notas-atletas/)
 
-- **1.0.1** → esta versão atual (branch de atualização e melhorias)
+- **1.0.1** → esta versão atual (de atualização e melhorias)
 
 ## Observações
 - A média válida é calculada considerando apenas as 3 notas do meio.
 - A tabela e o gráfico são atualizados automaticamente a cada modificação.
 - Os resultados também são exibidos no console usando `console.log()`.
 
-## 👨‍💻 Autor
+## Autor
 **Isaias Oliveira**
 
 📧 **E-mail:** [isaiaswebnet@gmail.com](mailto:isaiaswebnet@gmail.com)  
 💼 **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/skynetsites/)
 
-## ✨ Créditos
+## Créditos
 Desenvolvido como entrega do Projeto de certificação 1 - Pontuação dos atletas do curso **Jornada DEVStar CE do SENAI/SC**
